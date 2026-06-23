@@ -1,5 +1,5 @@
 ## Synex World
-## Synex World
+
 Welcome to Synex World.
 
 Synex World is a modern streetwear clothing brand inspired by harmony, creativity, and urban culture. Our mission is to create unique designs that combine style, comfort, and self-expression.
@@ -11,8 +11,7 @@ Synex World is a modern streetwear clothing brand inspired by harmony, creativit
 - Inspired by harmony and modern fashion
 - Designed for the new generation
 
-## Contact
 
-## WhatsApp: +212779100117
+[WhatsApp: +212779100117](https://wa.me/212779100117)
 
 © Synex World. All rights reserved.
